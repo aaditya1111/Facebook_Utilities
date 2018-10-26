@@ -1,0 +1,4 @@
+#!/usr/bin/python
+import facebook
+graph = facebook.GraphAPI('CAACEdEose0cBANQYurs5ZBwtTLxj7b7i78AM6lPZAxZAYLLUOlJ6AXatdx0BFaIxJRBmIVOvXB4ZCkHkPZCzPw55E0RJl2aeS0JBRFZAhGip20jitl8ofMvLCOKxteBOiToD5BhAI3krnn2Wiu29ivhutDmBevdoQtPet9UVifNtTDsZAflkcvENExdgqZBhGU28zSJ0BCSZCnwZDZD')
+graph.put_object("me", "feed", message="Python-Bot Speaking")
