@@ -1,2 +1,4 @@
-# Facebook_Utilities
-These are the  Graph API based Python scripts
+FaceBook-Utilities
+==================
+
+GraphAPI based Python scripts
